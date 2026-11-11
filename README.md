@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [quant-research-r/projects/r-time-series-forecasting-pipeline](https://github.com/john-stromberg/quant-research-r/tree/main/projects/r-time-series-forecasting-pipeline).
+> This repository is retained as a historical snapshot.
+
+---
+
 # r-time-series-forecasting-pipeline
 
 Intermediate R project that demonstrates an end-to-end forecasting workflow with reproducible pipeline orchestration and analytical communication.
